@@ -20,10 +20,16 @@ Time frame: Sep. 29, 2016 to Sep. 29 2017
 
 
 Reference:
+
 1. https://db-blog.web.cern.ch/blog/joeri-hermans/2017-01-distributed-deep-learning-apache-spark-and-keras
 2. https://github.com/cerndb/dist-keras
 3. https://github.com/cerndb/dist-keras/tree/master/examples
 4. https://www.slideshare.net/emanueldinardo/distributed-implementation-of-a-lstm-on-spark-and-tensorflow-69787635
 
+Stock price reference:
+
+1. https://finance.yahoo.com/quote/%5EDJI/components?p=%5EDJI
+
 Scala related reference:
+
 5. http://bayesanalytic.com/scala-fetch-stock-bar-data-from-yahoo-finance-service/

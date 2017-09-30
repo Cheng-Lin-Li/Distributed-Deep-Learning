@@ -3,7 +3,7 @@
 Distributed Deep Learning with Apache Spark and Keras
 
 This is my personal research on distributed LSTM computing with Apache Spark and Keras or Tensorflow.
-The data should be time series of L.A. freeway traffic or stock market price.
+The data is time series of Dow Jones stock market price.
 
 
 Reference:

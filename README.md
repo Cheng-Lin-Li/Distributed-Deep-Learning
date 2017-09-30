@@ -1,7 +1,7 @@
 # Distributed_Deep_Learning
 Distributed Deep Learning with Apache Spark and Keras
 
-This is my personal research on distributed LSTM computing with Apache Spark and Keras or Tensorflow.
+This is my personal research on distributed LSTM computing with Apache Spark with Keras / Tensorflow or scala with Deep4j.
 The data is time series of Dow Jones stock market price.
 
 ## Dataset
@@ -24,3 +24,6 @@ Reference:
 2. https://github.com/cerndb/dist-keras
 3. https://github.com/cerndb/dist-keras/tree/master/examples
 4. https://www.slideshare.net/emanueldinardo/distributed-implementation-of-a-lstm-on-spark-and-tensorflow-69787635
+
+Scala related reference:
+5. http://bayesanalytic.com/scala-fetch-stock-bar-data-from-yahoo-finance-service/
